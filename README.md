@@ -46,7 +46,7 @@ I currently serve at the Indigenous Language Research and Development Foundation
 Project Manager / Digital Platform Coordinator  
 *(2021–現職 | Present)*  
 - 維運 Lokahsu 認證網站與模擬測驗平台  
-  Manage [Lokahsu](https://exam.sce.ntnu.edu.tw/abst/) site and test systems  
+  Manage [Lokahsu]([https://exam.sce.ntnu.edu.tw/abst/](https://web.lokahsu.org.tw/)) site and test systems  
 - 設計語言能力自我評估工具  
   Design language self-assessment tools  
 - 導入 AI 語音辨識與自動評分規劃  
