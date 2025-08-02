@@ -42,11 +42,11 @@ I currently serve at the Indigenous Language Research and Development Foundation
 ## 💼 經歷 | Experience
 
 ### 原住民族語言研究發展基金會  
-**專案經理／數位平台協調人**  
-Project Manager / Digital Platform Coordinator  
+**副研究員／數位平台協調人**  
+Associate Researcher / Digital Platform Coordinator  
 *(2021–現職 | Present)*  
 - 維運 Lokahsu 認證網站與模擬測驗平台  
-  Manage [Lokahsu]([https://exam.sce.ntnu.edu.tw/abst/](https://web.lokahsu.org.tw/)) site and test systems  
+  Manage [Lokahsu](https://web.lokahsu.org.tw/) site and test systems  
 - 設計語言能力自我評估工具  
   Design language self-assessment tools  
 - 導入 AI 語音辨識與自動評分規劃  
@@ -60,7 +60,7 @@ Project Manager / Digital Platform Coordinator
   Researched the challenges of incorporating Indigenous transitional justice into social studies textbooks under the 2019 national curriculum reform (12-Year Basic Education)
 
 ### 原住民族歷史正義與轉型正義委員會  
-**助理研究員 | Assistant Researcher**  
+**副研究員 | Associate Researcher**  
 - 探討原住民族法律衝突與歷史資料彙整  
   Researched legal conflicts and documented transitional justice efforts
 
